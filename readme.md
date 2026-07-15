@@ -1,6 +1,6 @@
 # Hi, I'm Nur 👋
 
-🎓 Master of Computer Science — University of Adelaide (GPA: 6.14 / 7)  
+🎓 Master of Computer Science — University of Adelaide (GPA: 6.2 / 7)  
 💻 Software Engineer | Full-stack • Backend • AI  
 📍 Adelaide, Australia  
 
